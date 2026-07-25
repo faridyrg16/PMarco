@@ -1,0 +1,12 @@
+1.0
+
+Este proyecto fue creado para promocionar los productos de Pureza Interior (marca de bienestar de FuXion) en varios países.
+
+Características principales:
+- Landing page responsiva con diseño premium.
+- Detección automática de idioma (ES, EN, PT, FR) y selector manual.
+- Video tutorial de compra embebido.
+- Enlaces a tienda, WhatsApp y redes sociales (Facebook, TikTok, Instagram).
+- Sección de beneficios exclusivos (4x1, envío gratis en USA).
+- Integración con Google Tag Manager para estadísticas.
+- Desplegado usando GitHub Pages sin necesidad de backend.
